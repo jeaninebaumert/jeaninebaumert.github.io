@@ -2,7 +2,7 @@
 title: "Blockholder Influence"
 collection: publications
 category: manuscripts
-permalink: /research/paper1
+permalink: /research/blockholders
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 
 venue: 
