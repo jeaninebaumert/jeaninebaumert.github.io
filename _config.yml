@@ -21,14 +21,14 @@ repository               : ""
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "photo1.jpg"
   name             : "Jeanine Baumert"
   pronouns         : # example: "she/her"  
   bio              : "Research Associate"
   location         : "London, United Kingdom"
   employer         : "Imperial College Business School"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "j.baumert@imperial.ac.uk" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
