@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : ""
 title_separator          : "-"
-name                     : &name "Jeanine Baumert"
+name                     : &name ""
 description              : &description "Research Associate"
 url                      : https://jeaninebaumert.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
