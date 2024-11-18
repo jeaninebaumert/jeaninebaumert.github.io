@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 1"
+title: "Insider Trading and Communication among Peers"
 collection: publications
 category: manuscripts
 permalink:
