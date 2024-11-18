@@ -1,7 +1,7 @@
 ---
 title: "Paper Title Number 3"
 collection: publications
-category: conference
+category: manuscripts
 permalink: /publication/2008-10-01-paper-title-number-3
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2008-10-01
