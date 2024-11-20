@@ -81,7 +81,7 @@ publication_category:
   manuscripts:
     title: 'Working Papers'    
   conferences:
-    title: 'Conference Papers'
+    title: 'Job Market Paper'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
