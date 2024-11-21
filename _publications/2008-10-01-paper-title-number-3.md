@@ -7,7 +7,7 @@ excerpt: 'This paper presents a model of government borrowing, where the lender 
 date: 2008-10-01
 venue:
 slidesurl:
-paperurl:
+paperurl: 'https://jeaninebaumert.github.io/files/sovereigndefaultcds.pdf'
 citation:
 ---
 
