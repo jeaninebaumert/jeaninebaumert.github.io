@@ -7,7 +7,7 @@ excerpt: 'Blockholder influence has attracted recent interest, not only in the c
 date: 2010-10-01
 venue:''
 slidesurl:''
-paperurl:'https://jeaninebaumert.github.io/files/blockholderinfluence.pdf'
+paperurl:''
 citation:
 ---
 
