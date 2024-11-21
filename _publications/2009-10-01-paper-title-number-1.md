@@ -7,7 +7,7 @@ excerpt: 'This paper investigates how insiders in financial markets might profit
 date: 2009-10-01
 venue:
 slidesurl: 
-paperurl:
+paperurl: 'https://jeaninebaumert.github.io/files/insidertrading.pdf'
 citation:
 ---
 
