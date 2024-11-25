@@ -1,11 +1,11 @@
 ---
 title: "Intermediate Microeconomics"
 collection: teaching
-type: "Workshop"
+type: "MSc course, Teaching Assistant"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
+venue: "John Hopkins University SAIS"
 date: 2015-01-01
-location: "City, Country"
+location: "Bologna, Italy"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
