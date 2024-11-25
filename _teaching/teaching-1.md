@@ -5,5 +5,5 @@ type: "MSc course, Lead Instructor"
 permalink:
 venue: "Imperial College London"
 date: 2021-09-01
-location:
+location: London, UK
 ---
