@@ -24,9 +24,9 @@ author:
   avatar           : "photo_cr.jpg"
   name             : "Jeanine Baumert"
   pronouns         : # example: "she/her"  
-  bio              : "Research Associate"
+  bio              : 
   location         : 
-  employer         : "Imperial College Business School"
+  employer         : 
   uri              : # URL
   email            : "jbaumert25@gmail.com" 
 
