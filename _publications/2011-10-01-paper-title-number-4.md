@@ -7,7 +7,7 @@ excerpt: 'This paper studies the adoption of AI investment tools in a noisy rati
 date: 2011-10-01
 venue:
 slidesurl:
-paperurl:'https://github.com/jeaninebaumert/jeaninebaumert.github.io/blob/master/files/Jeanine%20Baumert_Chatbots.pdf'
+paperurl: 'https://github.com/jeaninebaumert/jeaninebaumert.github.io/blob/master/files/Jeanine%20Baumert_Chatbots.pdf'
 citation:
 ---
 
